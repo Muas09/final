@@ -1,0 +1,116 @@
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: white;
+  color: black;
+  padding: 4px 4px;
+  font-size: 3px; 
+ 
+}
+
+.block:hover {
+  background-color: rgb(244, 162, 40);
+  color: black;
+}
+.dropdown{
+  width:20%;
+  position: absolute;
+  top: 65px;
+  margin-right: 40px;
+}
+.wrapper{
+    width: 60%;
+    margin: 0 auto;
+    color: aliceblue;
+}
+.img{
+  width: 10px;
+  height: 10px;
+  padding: 3%;
+}
+.back_ground1{
+  background: url(//bizweb.dktcdn.net/100/365/442/themes/737549/assets/bg1.png?1656562257403);
+  background-size: auto;}
+
+.wrap-item{
+  display: flex;
+  justify-content: center;
+}
+.item{
+  display: flex;
+  width: 25%;
+  padding: 20px 10px;
+  align-items: center;
+  border: 1px solid rgb(127, 126, 126);
+  background: white;
+
+}
+.title-text{
+  color: black;
+}
+#so_1{
+  display: block;
+  display: flex;
+  justify-content: center;
+}
+.item{
+  width: unset;
+}
+#myCarousel{
+  width: 10
+  0%;
+  
+}
+.product-item a img{
+  padding: 10px;
+  width: 250px;
+  height:350px;
+  
+}
+
+
+.dinh_dang{
+  color: black;
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr 1fr ;
+}
+
+.item-video:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+  height: 50px;
+  border: solid 2px rgba(255,255,255,0.5);
+  border-radius: 50%;
+  background-size: 12px;
+  z-index: 1;
+  transition: all 0.3s ease 0s;
+}.item-video {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  border: 3px solid #f26522;
+}
+a, .text-link {
+  color: #333;
+  text-decoration: none !important;
+  background: transparent;
+}
+.so_hai{
+  background-color: rgb(58, 57, 57);
+  width: 6000px;
+  height: 500px;
+}
+
+
+  
+
+
+
+  
+  
