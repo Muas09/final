@@ -104,9 +104,15 @@ a, .text-link {
 .so_hai{
   background-image: url(//bizweb.dktcdn.net/100/365/442/themes/737549/assets/bg-section1.jpg?1664720334923);
   width: 2000px;
-  height: 500px;
+  height: 650px;
 }
-
+.product_img a img{
+  display: block;
+  padding: 10px;
+  width: 500px;
+  height:400px;
+  background-color: #333;
+}
 
   
 
