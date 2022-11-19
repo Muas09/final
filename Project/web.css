@@ -30,6 +30,7 @@
   padding: 3%;
 }
 .back_ground1{
+  padding-top: 10px;
   background: url(//bizweb.dktcdn.net/100/365/442/themes/737549/assets/bg1.png?1656562257403);
   background-size: auto;}
 
@@ -97,23 +98,75 @@
   border: 3px solid #f26522;
 }
 a, .text-link {
+  padding-top: 10px;
   color: #333;
   text-decoration: none !important;
   background: transparent;
+  
 }
 .so_hai{
   background-image: url(//bizweb.dktcdn.net/100/365/442/themes/737549/assets/bg-section1.jpg?1664720334923);
+  padding-top: 10px;
   width: 2000px;
-  height: 650px;
+  height: 600px;
 }
 .product_img a img{
   display: block;
   padding: 10px;
   width: 500px;
-  height:400px;
+  height:450px;
   background-color: #333;
 }
+.back_ground2{
+  padding-top: 15px;
+  background-image: url(//bizweb.dktcdn.net/100/365/442/themes/737549/assets/bg-head.png?1664720334923);
+  background-color: rgb(109, 109, 112);
+ 
+}
 
+.dinh_dang2{
+  color: white;
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr 1fr ;
+}
+
+
+.footer {
+  background: #1f1f21 url(//bizweb.dktcdn.net/100/365/442/themes/737549/assets/bg-f2.jpg?1656562257403) no-repeat scroll top center;
+}
+.cot_footer {
+  padding: 15px 0 0;
+}
+.container_b {
+  max-width: 1170px;
+  width: 1170px;
+}
+
+
+.cot_footer .footer-inner {
+    border-bottom: none;
+    padding-bottom: 0px;
+    border-top: 1px dotted #868686;
+    padding-top: 50px;
+}
+div {
+  display: block;
+}
+.footer .cot_footer {
+  font-size: 13px;
+}
+.footer .cot_footer {
+  font-size: 13px;
+}
+.footer .site-footer h4 {
+  position: relative;
+  color: #fff;
+  margin: 0;
+  padding: 13px 0 20px;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
   
 
 
